@@ -1,0 +1,4 @@
+applications:
+  - name: conf-server
+    buildpacks:
+    - java_buildpack
